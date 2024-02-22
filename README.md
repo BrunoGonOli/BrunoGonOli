@@ -1,4 +1,5 @@
 ### Hi there 👋
+chemist student from EPFL
 
 <!--
 **BrunoGonOli/BrunoGonOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
