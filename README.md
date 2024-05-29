@@ -1,5 +1,5 @@
-### Hi there 👋
-chemist student from EPFL
+### Hello 👋
+Chemistry student at EPFL. :)
 
 <!--
 **BrunoGonOli/BrunoGonOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
